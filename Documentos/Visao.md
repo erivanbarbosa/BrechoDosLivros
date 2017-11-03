@@ -47,7 +47,13 @@ Os compradores de livros por sua vez, acabam frequentemente se vendo obrigados a
 
 Uma boa solução para esse problema seria oferecer um sistema online de compra e venda de livros para essas pessoas, que permitisse aos vendedores anunciar seus livros com valor, estado de conservação e forma de entrega que desejassem e, aos compradores, permitisse pesquisar facilmente os livros anunciados de seu interesse pelo nome ou por uma série de outros parâmetros.
 ## Oportunidade de Negócio
+Baseados nos cenários do problema descrito acima, identificamos a oportunidade de negocio através do fornecimento de serviços para facilitar a venda e a compra de livros usados através de uma plataforma online, onde os vendededores pagariam por beneficios em seus anuncios, como melhor exposição aos compradores e possibilidades de criar mais anuncios simultâneos.
+
+
 ## Posição do Produto
+Para o vendedor de livros a quem interessa vender seus exemplares da forma mais rápida e fácil possivel. O Brechó dos Livros é uma aplicação web de anuncios especializada em livros que permite anunciar em poucos segundos um exemplar alcançando um grande número de compradores interessados e permitindo a ele escolher o preço do exemplar a venda.  
+Para o comprador de livros a quem interessa um ou mais exemplares especificos ou não. O Brechó dos Livros é uma aplicação web que funciona como um catálogo, permitindo-o encontrar exemplares a venda de forma muito mais fácil e rápida do que visitando estabelecimentos fisicos especializados nesse tipo de negócio.  
+Destacamos como diferenciis da nossa aplicação a delegação da efetivação da compra para o comprador e o vendedor envolvido, e a possibilidade de que eles se comuniquem para negociar preços, prazos e formas de pagamento.
 ## Alternativas e Concorrência
 
 # **Descrição dos Interessados**
