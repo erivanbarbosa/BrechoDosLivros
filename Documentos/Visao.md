@@ -57,17 +57,25 @@ Destacamos como diferenciis da nossa aplicação a delegação da efetivação d
 ## Alternativas e Concorrência
 
 # **Descrição dos Interessados**
-## Demografia de Mercado
 ## Descrição dos Interessados
+São interessados no sistema, qualquer coisa a quem interesse a venda ou compra de livros de usados.
+
 ## Descrição dos Usuários
-## Ambiente do Usuário
-## Perfil dos Interessados
-## Perfil dos Usuários
+O usuários do sistema são pessoas de qualquer nível conhecimento de informática que acessam o sistema para anunciar livros que possui
+ou para procurar livros que deseja comprar.
+
 ## Problemas e Objetivos dos Interessados
+1. Vendedor: deseja anunciar um ou mais livros que possua, podendo fornecer a descrição que desejar sobre o livro e seu estado,
+estipular preços e condições de venda, entrega e pagamento e entrar em contato com os interessados na compra.
+2. Comprado: deseja encontrar um ou mais livros especificos ou não. Aplicando uma série de filtros para facilitar a pesquisa,
+podendo, caso deseje entrar em contato com o vendedor do livro pra combinar a finalização da compra.
 
 # **Visão Geral do Produto**
 ## Perspectiva do Produto
 ## Resumo dos Benefícios
+1. Permite anunciar livros forneceno preço e descrição desejados
+2. Pemite pesquisar por livros através de filtros como nome, genero, preço e estado de conservação.
+3. Permite ao comprador enviar mensagens para o vendedor.
 ## Suposições e Dependências
 ##Custo e Preço
 ## Licenciamento e Instalação
