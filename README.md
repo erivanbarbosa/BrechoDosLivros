@@ -32,4 +32,4 @@ Faça um fork do projeto, altere o que julgar necessário e faça um pull reques
 
 
 ## License
-Este projeto está licenciado sobre o MIT Licence - veja [LICENSE.md](LICENSE.md) para mais detalhes.
+Este projeto está licenciado sobre o MIT Licence - veja [LICENSE](LICENSE) para mais detalhes.
