@@ -11,6 +11,7 @@ Inicialmente foi pensado para atender aos Campus da Universidade Federal de Goi�
 ### Pré-requisitos
 
 **App:** Android Studio com API 24 ou superior
+
 **Backend:** Servidor web (ex.: Nginx ou Apache2) com PHP 5.6 ou superior, atentando que a partir da versão 7.0 algumas funções foram modificadas, o que pode gerar alguma incompatibilidade. 
 **SGBD:** MySQL 5.1+ ou MariaDB
 
@@ -38,3 +39,6 @@ Faça um fork do projeto, altere o que julgar necessário e faça um pull reques
 ## License
 
 Este projeto está licenciado sobre o MIT Licence - veja [LICENSE.md](LICENSE.md) para mais detalhes.
+=======
+**Backend:** Servidor web (ex.: Nginx ou Apache2) com PHP 5.6 ou superior, atentando que a partir da versão 7.0 algumas funções foram modificadas, o que pode gerar alguma incompatibilidade
+
