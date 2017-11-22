@@ -90,12 +90,6 @@ Este Plano de Gerenciamento de Configuração é destinados para todos os integr
 | Baseline | Linha de base. Conjunto de versões de itens de configuração comprovadamente estáveis. Uma _baseline_ é usada como base no desenvolvimento da próxima fase do artefato e tem suas mudanças controladas por um processo formal. |
 | KFE | Kaio, Fernando, Erivan, os criadores. |
 
-## 0.4.Referências
-
-- ._Template_ do Plano de Gerenciamento de Configuração, RUP 7.0, IBM.
-- .Plano do Projeto &lt;criar link para o plano do projeto&gt;
-- .Cronograma do Projeto &lt;criar link para o cronograma do projeto&gt;
-
 ## 0.5.Evolução
 
 O Plano de Gerenciamento de Configuração deve ser mantido atualizado para refletir o planejamento corrente. Dessa forma, as seguintes situações representam gatilhos para atualização do plano e nova aprovação deste documento:
@@ -123,7 +117,9 @@ O Plano de Gerenciamento de Configuração deve ser mantido atualizado para refl
 | --- | --- | --- |
 | Google Drive | Atual | Ferramenta online para colocar os documentos do projeto que estão sendo editados ao mesmo tempo por um ou mais integrantes da equipe para facilitar o acompanhamento do documento e a edição do mesmo com os integrantes estando em locais físicos distantes um do outro. |
 | GitHub | Atual | Ferramenta de controle de versão, utilizado para enviar os artefatos do projeto e armazená-los. |
-| Trello | Atual | Ferramenta de Kanban, onde se pode visualizar tarefas e distribuí-las entre os integrantes |
+| Projects / GitHub | Atual | Ferramenta de Kanban, onde se pode visualizar tarefas e distribuí-las entre os integrantes |
+| Eclipse | Atual | Interface de apoio a codificação do sistema |
+| MySQL Admin / Workbench | Atual | Ferramenta apoio na utilização do banco do dados |
 
 ### 0.7.2.Ambientes
 
